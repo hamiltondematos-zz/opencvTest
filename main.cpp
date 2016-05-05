@@ -10,6 +10,7 @@ int main(int argc, char *argv[])
 //    cv::Mat inputImage = cv::imread("C:\\Users\\hamilton.matos\\Downloads\\bira.jpg");
 //    if(!inputImage.empty()) cv::imshow("Display Image", inputImage);
 
+    //slkdjfslkdjfslkdjfsd
     QApplication a(argc, argv);
     MainWindow w;
     w.show();
